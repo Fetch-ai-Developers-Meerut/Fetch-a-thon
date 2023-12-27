@@ -4,9 +4,13 @@ import binance from "./binance.png";
 import card from "./card.png";
 import coinbase from "./coinbase.png";
 import dropbox from "./dropbox.png";
-import logo from "./logo.svg";
+// import logo from "./logo.svg";
+import logo from "./fetch-logo.svg";
+import favLogo from "./fav-logo.png";
+// import logo from "./logo.png";
 import quotes from "./quotes.svg";
 import robot from "./robot.png";
+import fetch from "./fetch.png";
 import send from "./Send.svg";
 import shield from "./Shield.svg";
 import star from "./Star.svg";
@@ -50,4 +54,6 @@ export {
   people01,
   people02,
   people03,
+  fetch,
+  favLogo,
 };
