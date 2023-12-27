@@ -1,0 +1,54 @@
+[
+    {
+      "id": 1,
+      "name": "Bonnie Green",
+      "role": "CEO/Co-founder",
+      "avatar": "./assets/picture/Gautam.jpg",
+      "linkedin": "https://www.linkedin.com/in/gautammanak1/"
+    },
+    {
+      "id": 2,
+      "name": "Helene Engels",
+      "role": "CTO/Co-founder",
+      "avatar": "https://flowbite.s3.amazonaws.com/blocks/marketing-ui/avatars/helene-engels.png"
+    },
+    {
+      "id": 3,
+      "name": "Jese Leos",
+      "role": "SEO & Marketing",
+      "avatar": "https://flowbite.s3.amazonaws.com/blocks/marketing-ui/avatars/jese-leos.png"
+    },
+    {
+      "id": 4,
+      "name": "Joseph Mcfall",
+      "role": "Sales",
+      "avatar": "https://flowbite.s3.amazonaws.com/blocks/marketing-ui/avatars/joseph-mcfall.png"
+
+    },
+    {
+        "id": 1,
+        "name": "Bonnie Green",
+        "role": "CEO/Co-founder",
+        "avatar": "./assets/picture/Gautam.jpg",
+        "linkedin": "https://www.linkedin.com/in/gautammanak1/"
+      },
+      {
+        "id": 2,
+        "name": "Helene Engels",
+        "role": "CTO/Co-founder",
+        "avatar": "https://flowbite.s3.amazonaws.com/blocks/marketing-ui/avatars/helene-engels.png"
+      },
+      {
+        "id": 3,
+        "name": "Jese Leos",
+        "role": "SEO & Marketing",
+        "avatar": "https://flowbite.s3.amazonaws.com/blocks/marketing-ui/avatars/jese-leos.png"
+      },
+      {
+        "id": 4,
+        "name": "Joseph Mcfall",
+        "role": "Sales",
+        "avatar": "https://flowbite.s3.amazonaws.com/blocks/marketing-ui/avatars/joseph-mcfall.png"
+      }
+  ]
+  
