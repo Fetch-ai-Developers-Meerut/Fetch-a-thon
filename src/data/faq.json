@@ -1,5 +1,4 @@
-{
-  "FAQ": [
+[
     {
       "question": "What is Fetch-A-Thon?",
       "answer": "Fetch-A-Thon is Fetch.ai's first-ever hackathon in India, focusing on decentralized AI, smart contracts, and autonomous agents."
@@ -65,17 +64,8 @@
       "answer": "Yes, high school students are welcome, but they need parental consent to stay on the premises from 4th to 5th."
     },
     {
-      "question": "Any contact for queries?",
-      "answer": [
-        {
-          "name": "Gautam Manak",
-          "phone": "+919997355153"
-        },
-        {
-          "name": "Dev Chauhan",
-          "phone": "+918218306755"
-        }
-      ]
+      "question": "If you have any queries? Please connect with the team.",
+      "answer": "Gautam Manak +919997355153,  Dev Chauhan   +918218306755"
     }
+  
   ]
-}

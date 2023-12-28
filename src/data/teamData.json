@@ -1,54 +1,88 @@
 [
     {
       "id": 1,
-      "name": "Bonnie Green",
-      "role": "CEO/Co-founder",
+      "name": "Gautam Manak",
+      "role": "Organiser",
       "avatar": "./assets/picture/Gautam.jpg",
       "linkedin": "https://www.linkedin.com/in/gautammanak1/"
     },
     {
       "id": 2,
-      "name": "Helene Engels",
-      "role": "CTO/Co-founder",
-      "avatar": "https://flowbite.s3.amazonaws.com/blocks/marketing-ui/avatars/helene-engels.png"
+      "name": "Dev Chauhan",
+      "role": "Organiser",
+      "avatar": "./assets/picture/dev.jpg",
+      "linkedin":"https://www.linkedin.com/in/dev-chauhan-44ba15247/"
     },
     {
       "id": 3,
-      "name": "Jese Leos",
-      "role": "SEO & Marketing",
-      "avatar": "https://flowbite.s3.amazonaws.com/blocks/marketing-ui/avatars/jese-leos.png"
+      "name": "Harshit Goel",
+      "role": "Organiser",
+      "avatar": "./assets/picture/Harshit Goel.jpg",
+      "linkedin":"https://www.linkedin.com/in/harshitg0el/"
     },
     {
       "id": 4,
-      "name": "Joseph Mcfall",
-      "role": "Sales",
-      "avatar": "https://flowbite.s3.amazonaws.com/blocks/marketing-ui/avatars/joseph-mcfall.png"
+      "name": "Ayush Kumar",
+      "role" :"Organiser",
+      "avatar": "./assets/picture/ayush.jpeg",
+      "linkedin":"https://www.linkedin.com/in/ayush-kumar-984443191/"
 
     },
     {
-        "id": 1,
-        "name": "Bonnie Green",
-        "role": "CEO/Co-founder",
-        "avatar": "./assets/picture/Gautam.jpg",
-        "linkedin": "https://www.linkedin.com/in/gautammanak1/"
+        "id": 5,
+        "name": "Aryan Gupta",
+        "role": "Organiser",
+        "avatar": "./assets/picture/aryan.jpg",
+      "linkedin":"https://www.linkedin.com/in/aryan-gupta-5a599325a/"
       },
       {
-        "id": 2,
-        "name": "Helene Engels",
-        "role": "CTO/Co-founder",
-        "avatar": "https://flowbite.s3.amazonaws.com/blocks/marketing-ui/avatars/helene-engels.png"
+        "id": 6,
+        "name": "Sargam Tiwari",
+        "role":"Organiser",
+        "avatar": "./assets/picture/sargam.jpg",
+        "linkedin":"https://www.linkedin.com/in/sargam-tiwari-100101s/"
       },
       {
-        "id": 3,
-        "name": "Jese Leos",
-        "role": "SEO & Marketing",
-        "avatar": "https://flowbite.s3.amazonaws.com/blocks/marketing-ui/avatars/jese-leos.png"
+        "id": 7,
+        "name": "Anjali Agarwal ",
+        "role":"Volunteer",
+        "avatar": "./assets/picture/anjali.jpg",
+      "linkedin":"https://www.linkedin.com/in/anjali-agarwal-a41ba5227?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
       },
       {
-        "id": 4,
-        "name": "Joseph Mcfall",
-        "role": "Sales",
-        "avatar": "https://flowbite.s3.amazonaws.com/blocks/marketing-ui/avatars/joseph-mcfall.png"
+        "id": 8,
+        "name": "Sachin Kumar",
+        "role": "Volunteer",
+        "avatar": "./assets/picture/sachin.jpg",
+      "linkedin":"https://www.linkedin.com/in/sachinkumar6203876120"
+      },
+      {
+        "id": 9,
+        "name": "Shraddha Sharma",
+        "role": "Volunteer",
+        "avatar": "./assets/picture/sharada.jpg",
+      "linkedin":"https://www.linkedin.com/in/shraddha-sharma-15246a262?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
+      },
+      {
+        "id": 10,
+        "name": "Ishika jain",
+        "role": "Volunteer",
+        "avatar": "./assets/picture/ishika.jpg",
+      "linkedin":"https://www.linkedin.com/in/ishika-jain-b0872a258"
+      },
+      {
+        "id": 11,
+        "name": "Shashank Lodhi",
+        "role": "Volunteer",
+        "avatar": "./assets/picture/Shashank Lodhi.jpg",
+      "linkedin":"https://www.linkedin.com/in/shashank-lodhi-a93b2524b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
+      },
+      {
+        "id": 12,
+        "name": "Nehil Jain",
+        "role": "Volunteer",
+        "avatar": "./assets/picture/Nehil.jpg",
+      "linkedin":"https://www.linkedin.com/in/nehil-jain-67209a228"
       }
   ]
   
