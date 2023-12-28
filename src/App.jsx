@@ -11,7 +11,7 @@ import {
   Team,
   FAQ,
   Timer,
-  Timeline
+  Timeline,
 } from "./components";
 
 const App = () => (
@@ -37,7 +37,7 @@ const App = () => (
         {/* <Testimonials /> */}
         {/* <Clients /> */}
         <Timer />
-        <Timeline/>
+        <Timeline />
         <Team />
         <FAQ />
         <Footer />

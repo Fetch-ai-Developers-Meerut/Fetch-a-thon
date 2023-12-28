@@ -25,16 +25,16 @@ const FeatureCard = ({ icon, title, content, index }) => (
 );
 
 const Business = () => (
-  <section id="features" className={layout.section}>
+  <section id="about-us" className={layout.section}>
     <div className={layout.sectionInfo}>
       <h2 className={styles.heading2}>
         Why participate in <br className="sm:block hidden" />{" "}
         <span className="text-gradient">Fetch-A-Thon'24</span>
       </h2>
       <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
-        With the right credit card, you can improve your financial life by
-        building credit, earning rewards and saving money. But with hundreds of
-        credit cards on the market.
+        Dream big, code bigger! Fetch-A-Thon'24 is your portal to a universe
+        where AI meets web3 magic. Break barriers, craft innovations, and
+        redefine the future. Don't just participate, pioneers!
       </p>
 
       <Button styles={`mt-10`} />

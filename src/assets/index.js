@@ -11,6 +11,7 @@ import aboutImage from "./about.png";
 // import logo from "./logo.png";
 import quotes from "./quotes.svg";
 import robot from "./robot.png";
+import tShirt from "./t-shirt.png";
 import fetch from "./fetch.png";
 import send from "./Send.svg";
 import shield from "./Shield.svg";
@@ -20,6 +21,7 @@ import close from "./close.svg";
 import google from "./google.svg";
 import apple from "./apple.svg";
 import arrowUp from "./arrow-up.svg";
+import ai from "./ai.png";
 import discount from "./Discount.svg";
 import facebook from "./facebook.svg";
 import instagram from "./instagram.svg";
@@ -36,6 +38,7 @@ export {
   card,
   coinbase,
   dropbox,
+  tShirt,
   logo,
   quotes,
   robot,
@@ -46,6 +49,7 @@ export {
   close,
   google,
   apple,
+  ai,
   arrowUp,
   discount,
   facebook,

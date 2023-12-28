@@ -1,4 +1,21 @@
-import { people01, people02, people03, facebook, instagram, linkedin, twitter, airbnb, binance, coinbase, dropbox, send, shield, star  } from "../assets";
+import {
+  people01,
+  people02,
+  people03,
+  facebook,
+  instagram,
+  linkedin,
+  twitter,
+  airbnb,
+  binance,
+  coinbase,
+  dropbox,
+  ai,
+  send,
+  tShirt,
+  shield,
+  star,
+} from "../assets";
 
 export const navLinks = [
   {
@@ -29,21 +46,28 @@ export const features = [
     icon: star,
     title: "Rewards",
     content:
-      "The best credit cards offer some tantalizing combinations of promotions and prizes",
+      "Win FET Tokens worth INR 15K in your wallet and cash Prize for winners.",
   },
   {
     id: "feature-2",
-    icon: shield,
-    title: "100% Secured",
+    icon: ai,
+    title: "Learn about uAgent Library",
     content:
-      "We take proactive steps make sure your information and transactions are secure.",
+      "Upgrade yourself by learning and practicing basics of what empowers FetchAI in the age of AI.",
   },
   {
     id: "feature-3",
     icon: send,
-    title: "Balance Transfer",
+    title: "Networking",
     content:
-      "A balance transfer credit card can save you a lot of money in interest charges.",
+      "Not just a regular meeting outdoors but a technical gathering! Connect and enlarge your reach!",
+  },
+  {
+    id: "feature-4",
+    icon: tShirt,
+    title: "Additional gains",
+    content:
+      "Cool and awesome swags for every one and special gifts for some lucky participants!",
   },
 ];
 

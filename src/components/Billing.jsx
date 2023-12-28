@@ -22,14 +22,14 @@ const Billing = () => (
         <br className="sm:block hidden" />{" "}
         <span className="text-gradient">Fetch-a-thon'24 </span>?
       </h2>
-      <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
+      <p className={`${styles.paragraph} max-w-[680px] mt-5`}>
         Fetch-A-Thon'24 is a premier event, a hackathon to be organized by
         FetchAI Developers Meerut, that brings together talented individuals in
         the field of AI and web3 technology. It serves as a platform for
         participants to showcase their skills, collaborate, and innovate, making
         significant contributions to the rapidly evolving technology landscape.
         This Hackathon is a unique opportunity for talented minds to showcase
-        their coding prowess and creativity in seamlessly integrating AI
+        their coding prowess and creativity in seamless integration of AI
         capabilities with web3 technology.
       </p>
     </div>
