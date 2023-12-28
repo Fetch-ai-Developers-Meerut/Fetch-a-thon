@@ -37,7 +37,7 @@ const Team = () => {
                 rel="noopener noreferrer"
               >
                 <img
-                  className="mx-auto mb-4 w-36 h-30 rounded-3xl transition duration-300 ease-in-out hover:scale-110"
+                  className="mx-auto mb-4 object-cover h-[250px] w-[250px] rounded-3xl transition duration-300 ease-in-out hover:scale-110"
                   src={member.avatar}
                   alt={`${member.name} Avatar`}
                 />
