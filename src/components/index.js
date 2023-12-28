@@ -18,7 +18,6 @@ export {
   CardDeal,
   Business,
   Clients,
-  CTA,
   Stats,
   Footer,
   Testimonials,

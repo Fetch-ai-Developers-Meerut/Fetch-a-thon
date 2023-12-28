@@ -3,8 +3,6 @@ import {
   Billing,
   Business,
   CardDeal,
-  Clients,
-  CTA,
   Footer,
   Navbar,
   Stats,
