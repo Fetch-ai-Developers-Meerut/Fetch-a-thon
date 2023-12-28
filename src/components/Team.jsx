@@ -20,7 +20,7 @@ const Team = () => {
   }, []);
 
   return (
-    <section className="bg-primary">
+    <section className="bg-primary" id="team">
       <div className="container mx-auto px-4 py-16">
         <h1 className="flex-1 font-poppins font-semibold ss:text-[58px] text-[42px] text-white ss:leading-[100.8px] leading-[75px] text-center sm:text-left flex items-center justify-center p-10">
           <span className="text-gradient">Meet Our Team</span>
@@ -39,7 +39,7 @@ const Team = () => {
                   alt={`${member.name} Avatar`}
                 />
               </a>
-              <h3 className="mb-1 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">
+              <h3 className="mb-1 text-2xl font-bold tracking-tight text-white">
                 {member.name}
               </h3>
               <p>{member.role}</p>

@@ -2,6 +2,7 @@ import { useState } from "react";
 
 import { close, logo, menu, favLogo } from "../assets";
 import { navLinks } from "../constants";
+import { Link} from 'react-scroll';
 
 const Navbar = () => {
   const [active, setActive] = useState("Home");
@@ -20,7 +21,7 @@ const Navbar = () => {
             } ${index === navLinks.length - 1 ? "mr-0" : "mr-10"}`}
             onClick={() => setActive(nav.title)}
           >
-            <a href={`#${nav.id}`}>{nav.title}</a>
+            <Link to={`${nav.id}`}>{nav.title}</Link>
           </li>
         ))}
       </ul>

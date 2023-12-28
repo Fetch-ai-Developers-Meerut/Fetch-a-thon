@@ -6,12 +6,16 @@ export const navLinks = [
     title: "Home",
   },
   {
-    id: "features",
-    title: "Features",
+    id: "About",
+    title: "About us",
   },
   {
-    id: "product",
-    title: "Product",
+    id: "team",
+    title: "Team",
+  },
+  {
+    id: "timeline",
+    title: "Timeline",
   },
   {
     id: "clients",
@@ -73,18 +77,18 @@ export const feedback = [
 export const stats = [
   {
     id: "stats-1",
-    title: "User Active",
-    value: "3800+",
+    title: "",
+    value: "Fetch.ai",
   },
   {
     id: "stats-2",
-    title: "Trusted by Company",
-    value: "230+",
+    title: "",
+    value: "Github",
   },
   {
     id: "stats-3",
-    title: "Transaction",
-    value: "$230M+",
+    title: "",
+    value: "MIET",
   },
 ];
 

@@ -7,6 +7,7 @@ import dropbox from "./dropbox.png";
 // import logo from "./logo.svg";
 import logo from "./fetch-logo.svg";
 import favLogo from "./fav-logo.png";
+import aboutImage from "./about.png";
 // import logo from "./logo.png";
 import quotes from "./quotes.svg";
 import robot from "./robot.png";
@@ -56,4 +57,5 @@ export {
   people03,
   fetch,
   favLogo,
+  aboutImage,
 };
