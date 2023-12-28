@@ -3,24 +3,26 @@ import Billing from "./Billing";
 import CardDeal from "./CardDeal";
 import Business from "./Business";
 import Clients from "./Clients";
-import CTA from "./CTA";
 import Stats from "./Stats";
 import Footer from "./Footer";
 import Testimonials from "./Testimonials";
 import Hero from "./Hero";
 import Team from "./Team";
 import FAQ from "./FAQ";
+import Timer from "./Timer";
+import Timeline from "./Timeline";
 export {
   Navbar,
   Billing,
   CardDeal,
   Business,
   Clients,
-  CTA,
   Stats,
   Footer,
   Testimonials,
   Hero,
   Team,
-  FAQ
+  FAQ,
+  Timer,
+  Timeline,
 };

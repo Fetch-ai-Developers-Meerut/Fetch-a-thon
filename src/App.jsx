@@ -3,8 +3,6 @@ import {
   Billing,
   Business,
   CardDeal,
-  Clients,
-  CTA,
   Footer,
   Navbar,
   Stats,
@@ -12,6 +10,8 @@ import {
   Hero,
   Team,
   FAQ,
+  Timer,
+  Timeline
 } from "./components";
 
 const App = () => (
@@ -31,14 +31,15 @@ const App = () => (
     <div className={`bg-primary ${styles.paddingX} ${styles.flexCenter}`}>
       <div className={`${styles.boxWidth}`}>
         <Stats />
-        <Business />
         <Billing />
+        <Business />
         <CardDeal />
-        <Testimonials />
-        <Clients />
+        {/* <Testimonials /> */}
+        {/* <Clients /> */}
+        <Timer />
+        <Timeline/>
         <Team />
         <FAQ />
-        <CTA />
         <Footer />
       </div>
     </div>
