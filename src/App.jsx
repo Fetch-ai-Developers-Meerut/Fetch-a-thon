@@ -12,6 +12,8 @@ import {
   Hero,
   Team,
   FAQ,
+  Timer,
+  Timeline
 } from "./components";
 
 const App = () => (
@@ -34,11 +36,12 @@ const App = () => (
         <Billing />
         <Business />
         <CardDeal />
-        <Testimonials />
-        <Clients />
+        {/* <Testimonials /> */}
+        {/* <Clients /> */}
+        <Timer />
+        <Timeline/>
         <Team />
         <FAQ />
-        <CTA />
         <Footer />
       </div>
     </div>

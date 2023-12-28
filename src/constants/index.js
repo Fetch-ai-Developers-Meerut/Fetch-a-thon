@@ -18,8 +18,8 @@ export const navLinks = [
     title: "Timeline",
   },
   {
-    id: "clients",
-    title: "Clients",
+    id: "faq",
+    title: "FAQ",
   },
 ];
 

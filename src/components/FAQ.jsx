@@ -11,7 +11,7 @@ const FAQ = () => {
   }, []);
 
   return (
-    <section className="bg-primary">
+    <section className="bg-primary" id="faq">
       <div className="container flex flex-col justify-center px-4 py-8 mx-auto md:p-8">
         <h1 className="flex-1 font-poppins font-semibold ss:text-[58px] text-[42px] text-white ss:leading-[100.8px] leading-[75px] text-center sm:text-left flex items-center justify-center p-10">
           <span className="text-gradient">Frequently Asked Questions</span>
