@@ -11,7 +11,6 @@ import Team from "./Team";
 import FAQ from "./FAQ";
 import Timer from "./Timer";
 import Timeline from "./Timeline";
-
 export {
   Navbar,
   Billing,
