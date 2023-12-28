@@ -1,15 +1,81 @@
-[
+{
+  "FAQ": [
     {
-      "question": "Ex orci laoreet egestas sapien magna egestas scelerisque?",
-      "answer": "Lectus iaculis orci metus vitae ligula dictum per. Nisl per nullam taciti at adipiscing est."
+      "question": "What is Fetch-A-Thon?",
+      "answer": "Fetch-A-Thon is Fetch.ai's first-ever hackathon in India, focusing on decentralized AI, smart contracts, and autonomous agents."
     },
     {
-      "question": "Lorem at arcu rutrum viverra metus sapien venenatis lobortis odio?",
-      "answer": "Tincidunt ut hac condimentum rhoncus phasellus nostra. Magna porttitor egestas tincidunt neque vehicula potenti."
+      "question": "Who can participate?",
+      "answer": "Fetch-A-Thon is open to developers, AI enthusiasts, and innovators across India, regardless of skill level."
     },
     {
-      "question": "Eleifend feugiat sollicitudin laoreet adipiscing bibendum suscipit erat?",
-      "answer": "Justo libero tellus integer tincidunt justo semper consequat venenatis aliquet imperdiet. Ultricies urna proin fusce nulla pretium sodales vel magna et massa euismod vulputate sed."
+      "question": "Why should I participate in Fetch-A-Thon?",
+      "answer": "It's an opportunity to explore decentralized AI, engage with experts, win prizes, and showcase projects to a global audience."
+    },
+    {
+      "question": "What can I expect at Fetch-A-Thon?",
+      "answer": "Innovation with Fetch.ai, exploration of decentralized AI possibilities, engagement with industry experts, chances to win prizes, and networking opportunities."
+    },
+    {
+      "question": "How do I register for Fetch-A-Thon?",
+      "answer": "Visit the Commudle Fetch-A-Thon page to secure your spot in the AI coding extravaganza."
+    },
+    {
+      "question": "How do I prepare for Fetch-A-Thon?",
+      "answer": "Explore Fetch.ai's documentation and resources at https://fetch.ai/docs to familiarize yourself with the platform and its capabilities."
+    },
+    {
+      "question": "How do I submit my project?",
+      "answer": "Submit your project before the deadline to showcase your creation to the judges."
+    },
+    {
+      "question": "How big can a team be?",
+      "answer": "The minimum team size is two, and the maximum team size is four."
+    },
+    {
+      "question": "Do I need specific qualifications to participate?",
+      "answer": "No, the hackathon is open to anyone who loves to code, regardless of qualifications."
+    },
+    {
+      "question": "Can beginners participate in Fetch-A-Thon?",
+      "answer": "Absolutely! It welcomes participants of all skill levels, providing a great opportunity for beginners to learn and collaborate."
+    },
+    {
+      "question": "Are there any registration fees?",
+      "answer": "No, there are no participation or registration fees."
+    },
+    {
+      "question": "Can I start working on my hack before the event?",
+      "answer": "No, in the interest of fairness, working on projects before Fetch-A-Thon begins is not allowed."
+    },
+    {
+      "question": "What to bring to the hackathon?",
+      "answer": "Bring a valid university ID, a laptop, chargers, and any hardware you will use for your hack. Firearms, weapons, alcohol, and illegal drugs are not allowed."
+    },
+    {
+      "question": "Does Fetch-A-Thon provide Internet facility?",
+      "answer": "Teams are advised to bring their own broadband/hotspot device, as a maximum of one connection per team can be arranged."
+    },
+    {
+      "question": "What is the shortlisting procedure?",
+      "answer": "Teams will be shortlisted based on the information provided in the registration form."
+    },
+    {
+      "question": "Can high school students attend the hackathon?",
+      "answer": "Yes, high school students are welcome, but they need parental consent to stay on the premises from 4th to 5th."
+    },
+    {
+      "question": "Any contact for queries?",
+      "answer": [
+        {
+          "name": "Gautam Manak",
+          "phone": "+919997355153"
+        },
+        {
+          "name": "Dev Chauhan",
+          "phone": "+918218306755"
+        }
+      ]
     }
   ]
-  
+}
