@@ -11,32 +11,34 @@ const Hero = () => {
       <div
         className={`flex-1 ${styles.flexStart} flex-col xl:px-0 sm:px-16 px-6`}
       >
-        {/* <div className="flex flex-row items-center py-[6px] px-4 bg-discount-gradient rounded-[10px] mb-2">
-          <img src={discount} alt="discount" className="w-[32px] h-[32px]" />
-          <p className={`${styles.paragraph} ml-2`}>
-            <span className="text-white">20%</span> Discount For{" "}
-            <span className="text-white">1 Month</span> Account
-          </p>
-        </div> */}
-
         <div className="flex flex-row justify-between items-center w-full">
           <h1 className="flex-1 font-poppins font-semibold ss:text-[53px] text-[34px] text-white ss:leading-[100.8px] leading-[75px] text-center sm:text-left">
-            {/* <br className="sm:block hidden" />{" "} */}
-            <span className="text-gradient">Fetch-A-Thon'24</span>
+            <span
+              className="text-gradient"
+              data-aos="zoom-in"
+              data-aos-duration="500"
+              data-aos-easing="ease-in-out"
+              data-aos-delay="200"
+            >
+              Fetch-A-Thon'24
+            </span>
           </h1>
-          {/* <div className="ss:flex hidden md:mr-4 mr-0">
-            <GetStarted />
-          </div> */}
         </div>
 
         {/* <h1 className="font-poppins font-semibold ss:text-[68px] text-[52px] text-white ss:leading-[100.8px] leading-[75px] w-full">
           Payment Method.
         </h1> */}
-        <p className={`${styles.paragraph} max-w-[480px] mt-5`}>
+        <p
+          className={`${styles.paragraph} max-w-[480px] mt-5`}
+          data-aos="zoom-in"
+          data-aos-duration="500"
+          data-aos-easing="ease-in-out"
+        >
           Dive into the future of decentralized intelligence at Fetchathon!
           Craft intelligent solutions with Fetch.ai's uAgent library, compete
-          for glory, and forge connections in this coding odyssey. Join us on 
-           <span className="text-gradient font-bold"> 10th feb </span>for a journey where innovation knows no bounds.
+          for glory, and forge connections in this coding odyssey. Join us on
+          <span className="text-gradient font-bold"> 10th feb </span>for a
+          journey where innovation knows no bounds.
         </p>
       </div>
 
@@ -47,6 +49,9 @@ const Hero = () => {
           src={fetch}
           alt="billing"
           className="w-[100%] h-[100%] relative z-[5]"
+          data-aos="zoom-in"
+          data-aos-duration="500"
+          data-aos-easing="ease-in-out"
         />
 
         {/* gradient start */}
@@ -55,10 +60,6 @@ const Hero = () => {
         <div className="absolute z-[0] w-[50%] h-[50%] right-20 bottom-20 blue__gradient" />
         {/* gradient end */}
       </div>
-
-      {/* <div className={`ss:hidden ${styles.flexCenter}`}>
-        <GetStarted />
-      </div> */}
     </section>
   );
 };

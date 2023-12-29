@@ -10,7 +10,7 @@ import Hero from "./Hero";
 import Team from "./Team";
 import FAQ from "./FAQ";
 import Timer from "./Timer";
-import Timeline from "./Timeline";
+import TimelineSection from "./TimelineSection";
 export {
   Navbar,
   Billing,
@@ -24,5 +24,5 @@ export {
   Team,
   FAQ,
   Timer,
-  Timeline,
+  TimelineSection,
 };

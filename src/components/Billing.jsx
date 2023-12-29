@@ -2,12 +2,15 @@ import { apple, bill, google, aboutImage } from "../assets";
 import styles, { layout } from "../style";
 
 const Billing = () => (
-  <section id="product" className={layout.sectionReverse}>
+  <section id="About" className={layout.sectionReverse}>
     <div className={layout.sectionImgReverse}>
       <img
         src={aboutImage}
         alt="billing"
         className="w-[100%] h-[100%] relative z-[5]"
+        data-aos="zoom-in"
+        data-aos-duration="500"
+        data-aos-easing="ease-in-out"
       />
 
       {/* gradient start */}
@@ -17,12 +20,31 @@ const Billing = () => (
     </div>
 
     <div className={layout.sectionInfo}>
-      <h2 className={styles.heading2}>
+      <h2
+        className={styles.heading2}
+        data-aos="flip-up"
+        data-aos-duration="500"
+        data-aos-easing="ease-in-out"
+      >
         What is
         <br className="sm:block hidden" />{" "}
-        <span className="text-gradient">Fetch-a-thon'24 </span>?
+        <span
+          className="text-gradient"
+          data-aos="zoom-in"
+          data-aos-duration="500"
+          data-aos-easing="ease-in-out"
+          data-aos-delay="200"
+        >
+          Fetch-a-thon'24{" "}
+        </span>
+        ?
       </h2>
-      <p className={`${styles.paragraph} max-w-[680px] mt-5`}>
+      <p
+        className={`${styles.paragraph} max-w-[680px] mt-5`}
+        data-aos="zoom-in"
+        data-aos-duration="500"
+        data-aos-easing="ease-in-out"
+      >
         Fetch-A-Thon'24 is a premier event, a hackathon to be organized by
         FetchAI Developers Meerut, that brings together talented individuals in
         the field of AI and web3 technology. It serves as a platform for
