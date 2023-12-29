@@ -33,7 +33,7 @@ const FAQ = () => {
               data-aos-easing="ease-in-out"
               data-aos-delay="200"
               key={index}
-              className="w-full border rounded-lg cursor-pointer"
+              className="w-full border rounded-lg "
             >
               <summary className="px-4 py-6 text-white   focus:outline-none focus-visible:ri">
                 {item.question}

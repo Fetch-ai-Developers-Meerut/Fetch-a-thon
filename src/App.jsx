@@ -1,20 +1,17 @@
 import styles from "./style";
 import {
-  Billing,
-  Business,
-  CardDeal,
+  AboutUs,
+  Participat,
   Footer,
   Navbar,
-  Stats,
-  Testimonials,
+  Sponser,
   Hero,
   Team,
   FAQ,
   Timer,
   TimelineSection,
 } from "./components";
-
-import React from "react";
+import AnimatedCursor from "react-animated-cursor";
 import AOS from "aos";
 
 import "aos/dist/aos.css";
@@ -23,6 +20,26 @@ const App = () => {
   AOS.init();
   return (
     <div className="bg-primary w-full overflow-hidden">
+      <AnimatedCursor
+      innerSize={15}
+      outerSize={20}
+      color='125, 231, 235'
+      outerAlpha={0.2}
+      innerScale={0.7}
+      outerScale={5}
+      clickables={[
+        'a',
+        'input[type="text"]',
+        'input[type="email"]',
+        'input[type="number"]',
+        'input[type="submit"]',
+        'input[type="image"]',
+        'label[for]',
+        'select',
+        'textarea',
+        'button',
+        '.link']}
+      />
       <div className={`${styles.paddingX} ${styles.flexCenter}`}>
         <div className={`${styles.boxWidth}`}>
           <Navbar />
@@ -37,12 +54,9 @@ const App = () => {
 
       <div className={`bg-primary ${styles.paddingX} ${styles.flexCenter}`}>
         <div className={`${styles.boxWidth}`}>
-          <Stats />
-          <Billing />
-          <Business />
-          {/* <CardDeal /> */}
-          {/* <Testimonials /> */}
-          {/* <Clients /> */}
+          <Sponser />
+          <AboutUs />
+          <Participat />
           <TimelineSection />
           <Timer />
           <Team />
