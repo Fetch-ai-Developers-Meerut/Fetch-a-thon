@@ -8,7 +8,7 @@ const Team = () => {
   useEffect(() => {
     const fetchData = async () => {
       try {
-        const response = await fetch("/src/data/teamData.json");
+        const response = await fetch("./data/teamData.json");
         const data = await response.json();
         setTeamData(data);
       } catch (error) {

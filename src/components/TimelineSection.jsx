@@ -6,7 +6,7 @@ export default function TimelineSection() {
   useEffect(() => {
     const fetchData = async () => {
       try {
-        const response = await fetch("/src/data/timeline.json");
+        const response = await fetch("./data/timeline.json");
         const data = await response.json();
         setTimeLineData(data);
       } catch (error) {

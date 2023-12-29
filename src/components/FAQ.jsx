@@ -4,7 +4,7 @@ const FAQ = () => {
   const [faqData, setFaqData] = useState([]);
 
   useEffect(() => {
-    fetch("/src/data/faq.json")
+    fetch("./data/faq.json")
       .then((response) => response.json())
       .then((data) => setFaqData(data))
       .catch((error) => console.error("Error fetching FAQ data:", error));
