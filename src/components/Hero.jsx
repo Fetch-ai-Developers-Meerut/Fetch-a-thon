@@ -1,6 +1,5 @@
 import styles from "../style";
-import { discount, robot, fetch } from "../assets";
-import GetStarted from "./GetStarted";
+import {  fetch } from "../assets";
 
 const Hero = () => {
   return (
@@ -24,10 +23,6 @@ const Hero = () => {
             </span>
           </h1>
         </div>
-
-        {/* <h1 className="font-poppins font-semibold ss:text-[68px] text-[52px] text-white ss:leading-[100.8px] leading-[75px] w-full">
-          Payment Method.
-        </h1> */}
         <p
           className={`${styles.paragraph} max-w-[480px] mt-5`}
           data-aos="zoom-in"
