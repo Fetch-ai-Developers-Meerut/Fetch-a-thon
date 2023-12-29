@@ -7,7 +7,7 @@ const Footer = () => (
   <div class="w-full flex items-center justify-center">
     <div class="w-full px-4 text-white flex flex-col">
       <div class="flex flex-col">
-        <div class="flex mt-24 mb-12 flex-row justify-between items-center">
+        <div class="flex mt-24 mb-12 flex-row justify-center sm:justify-between items-center ">
           <div>
             <img
               src={logo}
@@ -18,12 +18,8 @@ const Footer = () => (
               An open platform for the new AI economy.
             </p>
           </div>
-          {navLinks.map((nav, index) => (
-            <Link className="text-gray-400 hover:text-white" to={`${nav.id}`}>
-              {nav.title}
-            </Link>
-          ))}
-          <div class="flex flex-row space-x-8 items-center justify-between">
+
+          <div class="hidden sm:flex flex-col sm:flex-row gap-4">
             {socialMedia.map((social, index) => (
               <img
                 key={social.id}
@@ -37,6 +33,26 @@ const Footer = () => (
             ))}
           </div>
         </div>
+        <div className="flex justify-evenly gap-2 pb-5">
+          {navLinks.map((nav, index) => (
+            <Link className="text-gray-400 hover:text-white" to={`${nav.id}`}>
+              {nav.title}
+            </Link>
+          ))}
+        </div>
+		<div class="flex sm:hidden flex-row gap-4 w-full justify-center py-4 pb-5">
+            {socialMedia.map((social, index) => (
+              <img
+                key={social.id}
+                src={social.icon}
+                alt={social.id}
+                className={`w-[21px] h-[21px] object-contain cursor-pointer ${
+                  index !== socialMedia.length - 1 ? "mr-6" : "mr-0"
+                }`}
+                onClick={() => window.open(social.link)}
+              />
+            ))}
+          </div>
         <hr class="border-gray-600" />
         <p class="w-full text-center my-8 text-white  ">
           Designed by{" "}
