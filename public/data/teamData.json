@@ -45,42 +45,42 @@
   {
     "id": 7,
     "name": "Anjali Agarwal ",
-    "role": "Volunteer",
+    "role": "Coordinator",
     "avatar": "./assets/picture/anjali.jpg",
     "linkedin": "https://www.linkedin.com/in/anjali-agarwal-a41ba5227?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
   },
   {
     "id": 8,
     "name": "Sachin Kumar",
-    "role": "Volunteer",
+    "role": "Coordinator",
     "avatar": "./assets/picture/sachin.jpg",
     "linkedin": "https://www.linkedin.com/in/sachinkumar6203876120"
   },
   {
     "id": 9,
     "name": "Shraddha Sharma",
-    "role": "Volunteer",
+    "role": "Coordinator",
     "avatar": "./assets/picture/sharada.jpg",
     "linkedin": "https://www.linkedin.com/in/shraddha-sharma-15246a262?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
   },
   {
     "id": 10,
     "name": "Ishika jain",
-    "role": "Volunteer",
+    "role": "Coordinator",
     "avatar": "./assets/picture/ishika.jpg",
     "linkedin": "https://www.linkedin.com/in/ishika-jain-b0872a258"
   },
   {
     "id": 11,
     "name": "Shashank Lodhi",
-    "role": "Volunteer",
+    "role": "Coordinator",
     "avatar": "./assets/picture/Shashank Lodhi.jpg",
     "linkedin": "https://www.linkedin.com/in/shashank-lodhi-a93b2524b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
   },
   {
     "id": 12,
     "name": "Nehil Jain",
-    "role": "Volunteer",
+    "role": "Coordinator",
     "avatar": "./assets/picture/Nehil.jpg",
     "linkedin": "https://www.linkedin.com/in/nehil-jain-67209a228"
   }
