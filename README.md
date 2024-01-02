@@ -1,5 +1,5 @@
 
-# Fetch-A-Thon: India's First All India Hackathon by Fetch.ai
+# Fetch-A-Thon: India's First All India Hackathon 2024 by Fetch.ai
 
 🚀 Welcome to Fetch-A-Thon, Fetch.ai's First Hackathon in India! 🇮🇳✨
 
