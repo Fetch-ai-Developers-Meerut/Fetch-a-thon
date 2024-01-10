@@ -28,7 +28,7 @@ export default function TimelineSection() {
         data-aos-duration="500"
         data-aos-easing="ease-in-out"
       >
-        Your journey through <br className="sm:block hidden" />{" "}
+         <br className="sm:block hidden" />{" "}
         <span className="text-gradient">Fetch-A-Thon</span>
       </h1>
 

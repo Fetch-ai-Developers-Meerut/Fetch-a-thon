@@ -6,6 +6,7 @@ import {
   Navbar,
   Sponser,
   Hero,
+  Event,
   Team,
   FAQ,
   Timer,
@@ -57,6 +58,7 @@ const App = () => {
           <Sponser />
           <AboutUs />
           <Participat />
+          <Event/>
           <TimelineSection />
           <Timer />
           <Team />
