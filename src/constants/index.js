@@ -44,15 +44,13 @@ export const features = [
     id: "feature-1",
     icon: star,
     title: "Rewards",
-    content:
-      "Win FET Tokens worth INR 15K in your wallet and cash Prize for winners.",
+    content: "Win FET Tokens worth INR 15K in your wallet and cash Prize for winners.",
   },
   {
     id: "feature-2",
     icon: ai,
     title: "Learn about uAgent Library",
-    content:
-      "Upgrade yourself by learning and practicing basics of what empowers FetchAI in the age of AI.",
+    content:"Upgrade yourself by learning and practicing basics of what empowers FetchAI in the age of AI.",
   },
   {
     id: "feature-3",
@@ -65,16 +63,14 @@ export const features = [
     id: "feature-4",
     icon: tShirt,
     title: "Additional gains",
-    content:
-      "Cool and awesome swags for every one and special gifts for some lucky participants!",
+    content: "Cool and awesome swags for every one and special gifts for some lucky participants!",
   },
 ];
 
 export const feedback = [
   {
     id: "feedback-1",
-    content:
-      "Money is only a tool. It will take you wherever you wish, but it will not replace you as the driver.",
+    content:"Money is only a tool. It will take you wherever you wish, but it will not replace you as the driver.",
     name: "Herman Jensen",
     title: "Founder & Leader",
     img: people01,
@@ -103,11 +99,7 @@ export const stats = [
     title: "",
     value: "Fetch.ai",
   },
-  {
-    id: "stats-2",
-    title: "",
-    value: "Github",
-  },
+  
   {
     id: "stats-3",
     title: "",

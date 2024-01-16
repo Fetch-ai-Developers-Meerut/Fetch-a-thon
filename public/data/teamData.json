@@ -13,15 +13,9 @@
     "avatar": "./assets/picture/dev.jpg",
     "linkedin": "https://www.linkedin.com/in/dev-chauhan-44ba15247/"
   },
+ 
   {
     "id": 3,
-    "name": "Ayush Kumar",
-    "role": "Organiser",
-    "avatar": "./assets/picture/ayush.jpeg",
-    "linkedin": "https://www.linkedin.com/in/ayush-kumar-984443191/"
-  },
-  {
-    "id": 4,
     "name": "Harshit Goel",
     "role": "Organiser",
     "avatar": "./assets/picture/Harshit Goel.jpg",
@@ -29,19 +23,27 @@
   },
 
   {
-    "id": 5,
+    "id": 4,
     "name": "Aryan Gupta",
     "role": "Organiser",
     "avatar": "./assets/picture/aryan.jpg",
     "linkedin": "https://www.linkedin.com/in/aryan-gupta-5a599325a/"
   },
   {
-    "id": 6,
+    "id": 5,
     "name": "Sargam Tiwari",
     "role": "Organiser",
     "avatar": "./assets/picture/sargam.jpg",
     "linkedin": "https://www.linkedin.com/in/sargam-tiwari-100101s/"
   },
+  {
+    "id": 6,
+    "name": "Ashish Chanchal ",
+    "role": "Coordinator",
+    "avatar": "https://www.kloudidev.com/assets/team/ashish.jpg",
+    "linkedin": "https://www.linkedin.com/in/ashishchanchal/"
+  },
+
   {
     "id": 7,
     "name": "Anjali Agarwal ",

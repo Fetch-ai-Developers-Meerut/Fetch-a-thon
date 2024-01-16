@@ -24,13 +24,13 @@ const Event = () => {
         </span>
       </h1>
 
-      <div class="container mx-auto px-5 py-2 lg:px-32 lg:pt-24">
+      <div class="container mx-auto px-5 py-2 lg:px-32 lg:pt-24 ">
         <div class="-m-1 flex flex-wrap md:-m-2">
           {images.map((image, index) => (
-            <div key={index} class="w-1/2 p-1 md:p-2">
+            <div key={index} class="w-1/3 p-1 md:p-2">
               <img
                 alt="gallery"
-                class="block h-full w-full rounded-lg object-cover object-center"
+                class="block h-full w-full rounded-lg object-cover object-center transition duration-300 ease-in-out hover:scale-110"
                 src={image}
               />
             </div>
