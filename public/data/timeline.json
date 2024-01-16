@@ -1,44 +1,84 @@
 [
   {
     "id": 1,
-    "heading": "Heading 1",
+    "heading": "Entry Desk (8:00 - 9:00 AM)",
     "date": "10-02-2024",
-    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, "
+    "description": "Team members collect their ID cards and team kits at the check-in desk."
   },
   {
     "id": 2,
-    "heading": "Heading 2",
-    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, "
+    "heading": "Welcome KeyNote & Morning Sessions (9:00 - 12:00 AM) ",
+    "description": "Start the day with a welcome note followed by an insightful speaker session and engaging workshops."
   },
   {
     "id": 3,
-    "heading": "Heading 3",
-    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, "
+    "heading": "Development Kickoff (12:00 AM - 1:00 PM)",
+    "description": "Teams commence their development projects."
   },
   {
     "id": 4,
-    "heading": "Heading 4",
-    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, "
+    "heading": "Lunch Break (1:00pm-2:00pm)",
+    "description": "Break for a satisfying lunch."
   },
   {
     "id": 5,
-    "heading": "Heading 5",
-    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, "
+    "heading": "Continue Development (2:00 PM onwards)",
+    "description": "Resume and progress with ongoing development work."
   },
   {
     "id": 6,
-    "heading": "Heading 6",
-    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, "
+    "heading": "Session II (3:00 PM - 3:40 PM)",
+    "description": "Attend a session focused on skill enhancement."
   },
   {
     "id": 7,
-    "heading": "Heading 7",
-    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, "
+    "heading": "Mentor Session 1 (4:00 PM onwards) ",
+    "description": "Connect with mentors for guidance."
   },
   {
     "id": 8,
-    "heading": "Heading 8",
-    "date": "10-02-2024",
-    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, "
+    "heading": "Dinner Break (8:00 PM - 9:00 PM)",
+    "description": "Enjoy a relaxing dinner."
+  },
+  {
+    "id": 9,
+    "heading": "Fun Activity I (9:00 PM - 9:30 PM)",
+    "description": "Enjoy a relaxing dinner."
+  },
+  {
+    "id": 10,
+    "heading": "Continue Development (9:30 PM onwards)",
+    "description": "Enjoy a relaxing diner."
+  },
+  {
+    "id": 11,
+    "heading": "Mentor Session II (10:00 PM onwards)",
+    "description": "Enjoy a relaxing diner."
+  },
+  {
+    "id": 12,
+    "heading": "Fun Activity II (12:00 PM - 12:30 PM)",
+    "description": "Enjoy a relaxing diner."
+  },
+  {
+    "id": 13,
+    "heading": "Breakfast (8:00 AM - 9:00 AM)",
+    "date": "11-02-2024",
+    "description": "Start the day with a hearty breakfast."
+  },
+  {
+    "id": 14,
+    "heading": "Pitching/Evaluation (10:00 PM onwards)",
+    "description": "Teams present their projects for evaluation."
+  },
+  {
+    "id": 15,
+    "heading": "Prize Distribution and Closing Note (12:00 PM - 1:00 PM)",
+    "description": "Receive awards and tokens, followed by a closing note."
+  },
+  {
+    "id": 16,
+    "heading": "Networking (1:00 PM onwards)",
+    "description": "Connect with peers and wrap up the event with networking."
   }
 ]
