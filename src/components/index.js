@@ -5,6 +5,7 @@ import Sponser from "./Sponser";
 import Footer from "./Footer";
 import Hero from "./Hero";
 import Team from "./Team";
+import Mentor from "./Mentor";
 import FAQ from "./FAQ";
 import Timer from "./Timer";
 import Event from "./Event";
@@ -20,6 +21,7 @@ export {
   Footer,
   Hero,
   Team,
+  Mentor ,
   FAQ,
   Timer,
   TimelineSection,

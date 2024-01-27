@@ -8,6 +8,7 @@ import {
   Hero,
   Event,
   Team,
+  Mentor,
   FAQ,
   Timer,
   TimelineSection,
@@ -62,6 +63,7 @@ const App = () => {
           <TimelineSection />
           <Timer />
           <Team />
+          <Mentor/>
           <Sponser />
           <FAQ />
           <Footer />

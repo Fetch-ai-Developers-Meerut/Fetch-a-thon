@@ -1,14 +1,14 @@
-// Team.js
+// Mentor.js
 
 import React, { useState, useEffect } from "react";
 
-const Team = () => {
+const Mentor = () => {
   const [teamData, setTeamData] = useState([]);
 
   useEffect(() => {
     const fetchData = async () => {
       try {
-        const response = await fetch("./data/teamData.json");
+        const response = await fetch("./data/mentor.json");
         const data = await response.json();
         setTeamData(data);
       } catch (error) {
@@ -29,7 +29,7 @@ const Team = () => {
             data-aos-duration="500"
             data-aos-easing="ease-in-out"
           >
-            Meet Our Team
+            Meet Our Judges
           </span>
         </h1>
         <div className="grid gap-8 lg:gap-16 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4">
@@ -43,7 +43,7 @@ const Team = () => {
               className="text-center text-gray-500 dark:text-gray-400"
             >
               <a
-                href={member.linkedin} 
+                href={member.linkedin} // Assuming 'linkedin' is a property in the member object
                 target="_blank"
                 rel="noopener noreferrer"
               >
@@ -65,4 +65,4 @@ const Team = () => {
   );
 };
 
-export default Team;
+export default Mentor;
