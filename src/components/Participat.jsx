@@ -59,7 +59,11 @@ const Participat = () => (
         redefine the future. Don't just participate, pioneers!
       </p>
 
-      <Button styles={`mt-10`} />
+      <Button
+        styles={`mt-10`}
+        text={`Register Now`}
+        link={`https://www.commudle.com/fill-form/2141`}
+      />
     </div>
 
     <div className={`${layout.sectionImg} flex-col`}>

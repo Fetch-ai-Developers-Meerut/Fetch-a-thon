@@ -15,8 +15,19 @@ const Timer = () => (
       </p>
     </div>
 
-    <div className={`${styles.flexCenter} sm:ml-10 ml-0 sm:mt-0 mt-10`}>
-      <Button styles={`sm:text-3xl text-lg font-semibold mb-3 sm:mb-0`} />
+    <div
+      className={`${styles.flexCenter} sm:ml-10 ml-0 sm:mt-0 mt-10 flex-col gap-3`}
+    >
+      <Button
+        styles={`sm:text-xl text-lg font-semibold mb-3 sm:mb-0`}
+        text={`Team Registartion`}
+        link={`https://www.commudle.com/fill-form/2141`}
+      />
+      <Button
+        styles={`sm:text-xl text-lg font-semibold mb-3 sm:mb-0`}
+        text={`Community Partner`}
+        link={`https://www.commudle.com/fill-form/2164`}
+      />
     </div>
   </section>
 );
