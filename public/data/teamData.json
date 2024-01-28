@@ -13,38 +13,52 @@
     "avatar": "./assets/picture/dev.jpg",
     "linkedin": "https://www.linkedin.com/in/dev-chauhan-44ba15247/"
   },
-
   {
     "id": 3,
+    "name": "Ashutosh Rana ",
+    "role": "Team Lead",
+    "avatar": "./assets/picture/ashutosh.jpeg",
+    "linkedin": "https://www.linkedin.com/in/ranaashutosh31/"
+  },
+  {
+    "id": 4,
+    "name": "Ashish Chanchal ",
+    "role": "Team Lead",
+    "avatar": "https://www.kloudidev.com/assets/team/ashish.jpg",
+    "linkedin": "https://www.linkedin.com/in/ashishchanchal/"
+  },
+  {
+    "id": 5,
+    "name": "Ashu Kumar",
+    "role": "Team Lead",
+    "avatar": "./assets/picture/ashu.JPG",
+    "linkedin": "https://www.linkedin.com/in/ashu-kr/"
+  },
+  {
+    "id": 6,
+    "name": "Aryan Gupta",
+    "role": "Team Lead",
+    "avatar": "./assets/picture/aryan.jpg",
+    "linkedin": "https://www.linkedin.com/in/aryan-gupta-5a599325a/"
+  },
+  {
+    "id": 7,
     "name": "Harshit Goel",
-    "role": "Organiser",
+    "role": "Management",
     "avatar": "./assets/picture/Harshit Goel.jpg",
     "linkedin": "https://www.linkedin.com/in/harshitg0el/"
   },
 
   {
-    "id": 4,
-    "name": "Aryan Gupta",
-    "role": "Organiser",
-    "avatar": "./assets/picture/aryan.jpg",
-    "linkedin": "https://www.linkedin.com/in/aryan-gupta-5a599325a/"
-  },
-  {
-    "id": 5,
+    "id": 8,
     "name": "Sargam Tiwari",
-    "role": "Organiser",
+    "role": "Designer",
     "avatar": "./assets/picture/sargam.jpg",
     "linkedin": "https://www.linkedin.com/in/sargam-tiwari-100101s/"
   },
+
   {
-    "id": 6,
-    "name": "Ashish Chanchal ",
-    "role": "Coordinator",
-    "avatar": "https://www.kloudidev.com/assets/team/ashish.jpg",
-    "linkedin": "https://www.linkedin.com/in/ashishchanchal/"
-  },
-  {
-    "id": 7,
+    "id": 9,
     "name": "Ankit Malik",
     "role": "Coordinator",
     "avatar": "./assets/picture/ankit.jpeg",
@@ -52,45 +66,53 @@
   },
 
   {
-    "id": 8,
+    "id": 10,
     "name": "Anjali Agarwal ",
     "role": "Coordinator",
     "avatar": "./assets/picture/anjali.jpg",
     "linkedin": "https://www.linkedin.com/in/anjali-agarwal-a41ba5227?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
   },
   {
-    "id": 9,
+    "id": 11,
     "name": "Sachin Kumar",
     "role": "Coordinator",
     "avatar": "./assets/picture/sachin.jpg",
     "linkedin": "https://www.linkedin.com/in/sachinkumar6203876120"
   },
   {
-    "id": 10,
+    "id": 12,
     "name": "Ishika jain",
     "role": "Coordinator",
     "avatar": "./assets/picture/ishika.jpg",
     "linkedin": "https://www.linkedin.com/in/ishika-jain-b0872a258"
   },
   {
-    "id": 11,
+    "id": 13,
     "name": "Shashank Lodhi",
     "role": "Coordinator",
     "avatar": "./assets/picture/Shashank Lodhi.jpg",
     "linkedin": "https://www.linkedin.com/in/shashank-lodhi-a93b2524b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
   },
+
   {
-    "id": 12,
-    "name": "Ashu Kumar",
+    "id": 14,
+    "name": "Abhijeet chauhan",
     "role": "Coordinator",
-    "avatar": "./assets/picture/ashu.JPG",
-    "linkedin": "https://www.linkedin.com/in/ashu-kr/"
+    "avatar": "./assets/picture/abhijeet.jpg",
+    "linkedin": "https://www.linkedin.com/in/thakur-abhijeet-singh-chauhan-4b5888297/?trk=contact-info"
   },
   {
-    "id": 13,
-    "name": "Ashutosh Rana ",
+    "id": 15,
+    "name": "Priya Sirohi",
     "role": "Coordinator",
-    "avatar": "./assets/picture/ashutosh.jpeg",
-    "linkedin": "https://www.linkedin.com/in/ranaashutosh31/"
+    "avatar": "./assets/picture/priya.jpeg",
+    "linkedin": "https://www.linkedin.com/in/priya-sirohi-048079257?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
+  },
+  {
+    "id": 16,
+    "name": "Harshit Rana",
+    "role": "Coordinator",
+    "avatar": "./assets/picture/harshitRana.jpeg",
+    "linkedin": "https://www.linkedin.com/in/priya-sirohi-048079257?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
   }
 ]
