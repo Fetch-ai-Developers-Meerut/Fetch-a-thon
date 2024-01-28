@@ -2,22 +2,22 @@ import { useState, useEffect } from "react";
 import { stats } from "../constants";
 import styles from "../style";
 
-const Sponser = () => {
-  const [sponsorData, setSponsorData] = useState([]);
+const Community = () => {
+  const [communityData, setCommunityData] = useState([]);
 
   useEffect(() => {
     const fetchData = async () => {
       try {
-        const response = await fetch("./data/sponsorData.json");
+        const response = await fetch("./data/communityData.json");
         const data = await response.json();
-        setSponsorData(data);
+        setCommunityData(data);
       } catch (error) {
         console.error("Error fetching data:", error);
       }
     };
 
     fetchData();
-  }, []); // The empty dependency array ensures that the effect runs only once when the component mounts
+  }, []);
 
   return (
     <>
@@ -28,25 +28,25 @@ const Sponser = () => {
           data-aos-duration="500"
           data-aos-easing="ease-in-out"
         >
-          Sponsered By
+          Our Community Partner
         </span>
       </h1>
       <section
         className={`${styles.flexEvenly} flex-row flex-wrap sm:mb-20 mb-6`}
       >
-        {sponsorData.map((sponsor) => (
+        {communityData.map((community) => (
           <div
             data-aos="flip-up"
             data-aos-duration="500"
             data-aos-easing="ease-in-out"
-            key={sponsor.id}
+            key={community.id}
             className={`flex justify-start items-center flex-col m-3`}
           >
             <img
-              src={sponsor.logo}
-              alt={sponsor.name}
+              src={community.logo}
+              alt={community.name}
               className="mr-2"
-              width={350}
+              width={150}
             />
           </div>
         ))}
@@ -55,4 +55,4 @@ const Sponser = () => {
   );
 };
 
-export default Sponser;
+export default Community;

@@ -1,21 +1,26 @@
 [
-    {
-      "id": 1,
-      "name": "Sponsor A",
-      "logo": "/path/to/sponsorA.png",
-      "value": "Value A"
-    },
-    {
-      "id": 2,
-      "name": "Sponsor B",
-      "logo": "/path/to/sponsorB.png",
-      "value": "Value B"
-    },
-    {
-      "id": 3,
-      "name": "Sponsor C",
-      "logo": "/path/to/sponsorC.png",
-      "value": "Value C"
-    }
-  ]
-  
+  {
+    "id": 1,
+    "logo": "./assets/sponsor/fetchai.svg"
+  },
+  {
+    "id": 2,
+    "logo": "./assets/sponsor/miet.png"
+  },
+  {
+    "id": 3,
+    "logo": "./assets/sponsor/risein.png"
+  },
+  {
+    "id": 4,
+    "logo": "./assets/sponsor/reskill.png"
+  },
+  {
+    "id": 5,
+    "logo": "./assets/sponsor/block.png"
+  },
+  {
+    "id": 6,
+    "logo": "./assets/sponsor/commu.png"
+  }
+]
