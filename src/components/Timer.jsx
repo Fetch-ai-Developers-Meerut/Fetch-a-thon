@@ -23,11 +23,6 @@ const Timer = () => (
         text={`Team Registartion`}
         link={`https://www.commudle.com/fill-form/2141`}
       />
-      <Button
-        styles={`sm:text-xl text-lg font-semibold mb-3 sm:mb-0`}
-        text={`Community Partner`}
-        link={`https://www.commudle.com/fill-form/2164`}
-      />
     </div>
   </section>
 );

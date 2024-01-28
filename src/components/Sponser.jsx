@@ -17,7 +17,7 @@ const Sponser = () => {
     };
 
     fetchData();
-  }, []); // The empty dependency array ensures that the effect runs only once when the component mounts
+  }, []); 
 
   return (
     <>

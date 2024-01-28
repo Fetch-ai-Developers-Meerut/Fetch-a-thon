@@ -78,5 +78,19 @@
     "role": "Coordinator",
     "avatar": "./assets/picture/Shashank Lodhi.jpg",
     "linkedin": "https://www.linkedin.com/in/shashank-lodhi-a93b2524b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
+  },
+  {
+    "id": 12,
+    "name": "Ashu Kumar",
+    "role": "Coordinator",
+    "avatar": "./assets/picture/ashu.JPG",
+    "linkedin": "https://www.linkedin.com/in/ashu-kr/"
+  },
+  {
+    "id": 13,
+    "name": "Ashutosh Rana ",
+    "role": "Coordinator",
+    "avatar": "./assets/picture/ashutosh.jpeg",
+    "linkedin": "https://www.linkedin.com/in/ranaashutosh31/"
   }
 ]

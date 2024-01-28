@@ -5,6 +5,22 @@
   },
   {
     "id": 2,
+    "logo": "./assets/community/mch.png"
+  },
+  {
+    "id": 3,
     "logo": "./assets/community/cxi.png"
+  },
+  {
+    "id": 4,
+    "logo": "./assets/community/al.jpeg"
+  },
+  {
+    "id": 5,
+    "logo": "./assets/community/gdsc1.png"
+  },
+  {
+    "id": 6,
+    "logo": "./assets/community/gdsc2.png"
   }
 ]
