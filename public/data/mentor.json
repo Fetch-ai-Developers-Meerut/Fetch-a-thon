@@ -2,8 +2,29 @@
   {
     "id": 1,
     "name": "Sahitya Roy",
-    "role": "Mentor",
+    "role": "Developer Relation Specialist at Rise in",
     "avatar": "./assets/mentor/sahitya1.jpeg",
-    "linkedin": "https://www.linkedin.com/in/sahityaroy?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
+    "linkedin": "https://www.linkedin.com/in/sahityaroy/"
+  },
+  {
+    "id": 2,
+    "name": "Jagdish Pandya",
+    "role": "Founder of Block On Ventures",
+    "avatar": "",
+    "linkedin": "https://www.linkedin.com/in/jagdishpandya/"
+  },
+  {
+    "id": 3,
+    "name": "",
+    "role": "",
+    "avatar": "",
+    "linkedin": ""
+  },
+  {
+    "id": 4,
+    "name": "Ayushi Agarwal",
+    "role": "Consultant at Capgemini Engineering",
+    "avatar": "",
+    "linkedin": ""
   }
 ]

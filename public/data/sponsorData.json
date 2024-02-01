@@ -9,16 +9,18 @@
   },
   {
     "id": 3,
-    "logo": "./assets/sponsor/risein.png"
+    "logo": "./assets/sponsor/block.png"
   },
+  
   {
     "id": 4,
     "logo": "./assets/sponsor/reskill.png"
   },
   {
     "id": 5,
-    "logo": "./assets/sponsor/block.png"
+    "logo": "./assets/sponsor/risein.png"
   },
+  
   {
     "id": 6,
     "logo": "./assets/sponsor/commu.png"
