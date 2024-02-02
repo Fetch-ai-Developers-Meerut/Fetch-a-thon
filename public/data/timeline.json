@@ -1,84 +1,90 @@
 [
   {
     "id": 1,
-    "heading": "Entry Desk (8:00 - 9:00 AM)",
+    "heading": "Check-In Starts (8:00 - 9:00am)",
     "date": "10-02-2024",
     "description": "Team members collect their ID cards and team kits at the check-in desk."
   },
   {
     "id": 2,
-    "heading": "Welcome KeyNote & Morning Sessions (9:00 - 12:00 AM) ",
-    "description": "Start the day with a welcome note followed by an insightful speaker session and engaging workshops."
+    "heading": "Opening Ceremony (09:00 - 09:45am) ",
+    "description": "Start the day with a welcome note."
   },
   {
     "id": 3,
-    "heading": "Development Kickoff (12:00 AM - 1:00 PM)",
-    "description": "Teams commence their development projects."
+    "heading": "Workshop on uAgents (09:45 - 11:30am)",
+    "description": "A hands-on technical session where participants learn and engage in development activities related to Fetch.ai, focusing on exploring its capabilities and potential applications."
   },
   {
     "id": 4,
-    "heading": "Lunch Break (1:00pm-2:00pm)",
-    "description": "Break for a satisfying lunch."
+    "heading": "Fetch-A-Thon Begins (11:30 - 13:00pm)",
+    "description": "Unleash your skills in our hackathon. Let creativity flow in the allotted time — code and conquer!"
   },
   {
     "id": 5,
-    "heading": "Continue Development (2:00 PM onwards)",
-    "description": "Resume and progress with ongoing development work."
+    "heading": "Lunch (1:00 - 1:30pm)",
+    "description": "Break for a satisfying lunch."
   },
   {
     "id": 6,
-    "heading": "Session II (3:00 PM - 3:40 PM)",
-    "description": "Attend a session focused on skill enhancement."
+    "heading": "Fun Activity 1 (18:00 - 18:30pm)",
+    "description": "An engaging activity to lighten the mood and reinforce learning."
   },
   {
     "id": 7,
-    "heading": "Mentor Session 1 (4:00 PM onwards) ",
-    "description": "Connect with mentors for guidance."
+    "heading": "Session-Rise IN (18:30 - 19:10pm) ",
+    "description": "Collect insights into emerging trends and technologies related to the hackathon theme of web3."
   },
   {
     "id": 8,
-    "heading": "Dinner Break (8:00 PM - 9:00 PM)",
+    "heading": "Dinner Break (20:00 - 21:30pm)",
     "description": "Enjoy a relaxing dinner."
   },
   {
     "id": 9,
-    "heading": "Fun Activity I (9:00 PM - 9:30 PM)",
-    "description": "Enjoy a relaxing dinner."
+    "heading": "Mentor Session I (21:30 - 22:00pm)",
+    "description": "This is a non eliminative round. In this round mentors will check the progress of the hack. You can also discuss your ideas with mentors and can also take the inputs from them."
   },
   {
     "id": 10,
-    "heading": "Continue Development (9:30 PM onwards)",
-    "description": "Enjoy a relaxing diner."
+    "heading": "Mentor Session II  (01:30 - 02:30am)",
+    "date": "11-02-2024",
+    "description": "Guidance from mentors to address technical challenges and enhance project development. After this mentoring session, participants will also not be allowed to change their project after this."
   },
   {
     "id": 11,
-    "heading": "Mentor Session II (10:00 PM onwards)",
-    "description": "Enjoy a relaxing diner."
+    "heading": "Midnight Snacks (02:30 - 03:00am)" ,
+    "description": "Enjoy the Snacks"
   },
   {
     "id": 12,
-    "heading": "Fun Activity II (12:00 PM - 12:30 PM)",
-    "description": "Enjoy a relaxing diner."
+    "heading": "Fun Activity 2(03:00 - 03:30am)",
+    "description": "Recreational activity for team building and a refreshing break."
   },
   {
     "id": 13,
-    "heading": "Breakfast (8:00 AM - 9:00 AM)",
-    "date": "11-02-2024",
+    "heading": "Breakfast (8:00 AM - 9:00am)",
     "description": "Start the day with a hearty breakfast."
   },
   {
     "id": 14,
-    "heading": "Pitching/Evaluation (10:00 PM onwards)",
-    "description": "Teams present their projects for evaluation."
+    "heading": "Workshop by Github (09:30 - 10:00am)",
+    "description": "An interactive session focused on GitHub best practices, collaborative coding and hosting your projects."
   },
   {
     "id": 15,
-    "heading": "Prize Distribution and Closing Note (12:00 PM - 1:00 PM)",
-    "description": "Receive awards and tokens, followed by a closing note."
+    "heading": "Submission Start (10:00 - 11:00am)",
+    "description": "This is a reminder start wrapping up your things and start submitting your project on Rise In."
   },
   {
     "id": 16,
-    "heading": "Networking (1:00 PM onwards)",
-    "description": "Connect with peers and wrap up the event with networking."
+    "heading": "Judging Round (11:30 - 12:30pm)",
+    "description": "In this round selected teams will pitch their project to the panel of judges and in this round top two winners will be announced."
+  },
+  {
+    "id": 17,
+    "heading": "Closing Ceremony Swags Distribution (12:30 - 13:30pm)",
+    "description": "Tata Bye Bye Khatam Ho Gaya !!! [See You Next Time]"
   }
+
 ]

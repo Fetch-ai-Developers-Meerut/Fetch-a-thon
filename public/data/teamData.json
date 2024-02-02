@@ -42,6 +42,20 @@
     "linkedin": "https://www.linkedin.com/in/aryan-gupta-5a599325a/"
   },
   {
+    "id": 17,
+    "name": "Harsh Kumar",
+    "role": "Team Lead",
+    "avatar": "./assets/picture/harsh2.jpg",
+    "linkedin": "https://www.linkedin.com/in/harsh-kumar-653331214/"
+  },
+  {
+    "id": 18,
+    "name": "Swati Paliwal",
+    "role": "Team Lead",
+    "avatar": "./assets/picture/swati.jpg",
+    "linkedin": "https://www.linkedin.com/in/swati-paliwal/"
+  },
+  {
     "id": 7,
     "name": "Harshit Goel",
     "role": "Management",

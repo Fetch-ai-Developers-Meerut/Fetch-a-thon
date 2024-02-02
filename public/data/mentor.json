@@ -1,30 +1,46 @@
 [
   {
-    "id": 1,
-    "name": "Sahitya Roy",
-    "role": "Developer Relation Specialist at Rise in",
-    "avatar": "./assets/mentor/sahitya1.jpeg",
-    "linkedin": "https://www.linkedin.com/in/sahityaroy/"
-  },
+  "id": 1,
+  "name": "Anup Gupta",
+  "role": "Solution Architecture | AWS Community Builder",
+  "avatar": "./assets/mentor/anup.jpg",
+  "linkedin": "https://www.linkedin.com/in/anupg-learn4tarakki/"
+},
+  
+
   {
     "id": 2,
     "name": "Jagdish Pandya",
     "role": "Founder of Block On Ventures",
-    "avatar": "",
+    "avatar": "./assets/mentor/jagdish.png",
     "linkedin": "https://www.linkedin.com/in/jagdishpandya/"
   },
   {
     "id": 3,
-    "name": "",
-    "role": "",
-    "avatar": "",
-    "linkedin": ""
+    "name": "Ayush Kumar",
+    "role": "DevRel@TechLatest.Net | CM @Xerocodee & @OpenGig | GitHub Campus Expert | AWS Community Builder",
+    "avatar": "./assets/mentor/aayush.jpg",
+    "linkedin": "https://www.linkedin.com/in/ayush-kumar-984443191/"
   },
   {
     "id": 4,
     "name": "Ayushi Agarwal",
     "role": "Consultant at Capgemini Engineering",
-    "avatar": "",
-    "linkedin": ""
+    "avatar": "./assets/mentor/aayusi.jpg",
+    "linkedin": "https://www.linkedin.com/in/ayushi-agarwal-883819106/"
+  },
+  {
+    "id": 5,
+    "name": "Arya Soni",
+    "role": "Arya Soni | CTO of XeroCode and Devops Engineer at Zupee",
+    "avatar": "./assets/mentor/arya.jpg",
+    "linkedin": "https://www.linkedin.com/in/aryasoni/"
+  },
+  {
+    "id": 6,
+    "name": "Sahitya Roy",
+    "role": "Developer Relation Specialist at Rise in",
+    "avatar": "./assets/mentor/sahitya1.jpeg",
+    "linkedin": "https://www.linkedin.com/in/sahityaroy/"
   }
 ]

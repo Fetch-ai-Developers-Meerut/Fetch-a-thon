@@ -13,7 +13,7 @@
   },
   {
     "id": 4,
-    "logo": "./assets/community/al.jpeg"
+    "logo": "./assets/community/ai2.png"
   },
   {
     "id": 5,
@@ -22,5 +22,13 @@
   {
     "id": 6,
     "logo": "./assets/community/gdsc2.png"
+  }, 
+  {
+    "id": 7,
+    "logo": "./assets/community/tfug2.png"
+  },
+  {
+    "id": 8,
+    "logo": "./assets/community/codercorps.png"
   }
 ]
