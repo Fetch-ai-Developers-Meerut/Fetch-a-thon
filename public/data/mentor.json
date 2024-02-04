@@ -25,10 +25,11 @@
   {
     "id": 4,
     "name": "Ayushi Agarwal",
-    "role": "Consultant at Capgemini Engineering",
+    "role": "Women Techmaker | Consultant at Capgemini Engineering",
     "avatar": "./assets/mentor/aayusi.jpg",
     "linkedin": "https://www.linkedin.com/in/ayushi-agarwal-883819106/"
   },
+
   {
     "id": 5,
     "name": "Arya Soni",
@@ -42,5 +43,13 @@
     "role": "Developer Relation Specialist at Rise in",
     "avatar": "./assets/mentor/sahitya1.jpeg",
     "linkedin": "https://www.linkedin.com/in/sahityaroy/"
+  },
+  {
+    "id": 7,
+    "name": "Deepak Singh",
+    "role": "SDE-2 at GP | ex-Amazonian",
+    "avatar": "./assets/mentor/deepak.jpg",
+    "linkedin": " https://www.linkedin.com/in/deepak-s-5a8a5598"
   }
+
 ]
