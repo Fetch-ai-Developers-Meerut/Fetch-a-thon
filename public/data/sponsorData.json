@@ -23,5 +23,9 @@
   {
     "id": 6,
     "logo": "./assets/sponsor/commu.png"
+  },
+  {
+    "id": 7,
+    "logo": "./assets/sponsor/x.png"
   }
 ]
