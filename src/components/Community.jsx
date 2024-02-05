@@ -45,8 +45,8 @@ const Community = () => {
             <img
               src={community.logo}
               alt={community.name}
-              className="mr-2"
-              width={150}
+              className="mr-2 rounded-xl"
+              width={community.small ? 350 : 150}
             />
           </div>
         ))}

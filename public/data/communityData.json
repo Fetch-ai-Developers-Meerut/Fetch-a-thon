@@ -22,7 +22,7 @@
   {
     "id": 6,
     "logo": "./assets/community/gdsc2.png"
-  }, 
+  },
   {
     "id": 7,
     "logo": "./assets/community/tfug2.png"
@@ -30,5 +30,46 @@
   {
     "id": 8,
     "logo": "./assets/community/codercorps.png"
+  },
+  {
+    "id": 9,
+    "logo": "./assets/community/GDSC adip.png"
+  },
+  {
+    "id": 10,
+    "logo": "./assets/community/mscabesit.jpg"
+  },
+  {
+    "id": 11,
+    "logo": "./assets/community/mlsc_amity_logo.png"
+  },
+  {
+    "id": 12,
+    "logo": "./assets/community/MLSA.png"
+  },
+  {
+    "id": 13,
+    "logo": "./assets/community/cswd.png"
+  },
+  {
+    "id": 14,
+    "logo": "./assets/community/tit.jpeg"
+  },
+  {
+    "id": 15,
+    "logo": "./assets/community/cwt.jpeg"
+  },
+  {
+    "id": 16,
+    "logo": "./assets/community/iot.png"
+  },
+  {
+    "id": 17,
+    "small": true,
+    "logo": "./assets/community/dc.jpeg"
+  },
+  {
+    "id": 18,
+    "logo": "./assets/community/sos.jpeg"
   }
 ]
