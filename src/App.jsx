@@ -18,6 +18,7 @@ import AOS from "aos";
 
 import "aos/dist/aos.css";
 import Community from "./components/Community";
+import Faculty from "./components/faculty";
 
 const App = () => {
   AOS.init();
@@ -63,6 +64,7 @@ const App = () => {
           <Event />
           <TimelineSection />
           <Timer />
+          <Faculty />
           <Team />
           <Mentor />
           <Sponser />
