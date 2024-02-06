@@ -18,7 +18,7 @@ import AOS from "aos";
 
 import "aos/dist/aos.css";
 import Community from "./components/Community";
-import Faculty from "./components/faculty";
+import Faculty from "./components/Faculty";
 
 const App = () => {
   AOS.init();
