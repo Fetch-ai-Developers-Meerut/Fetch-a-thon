@@ -42,21 +42,21 @@
     "linkedin": "https://www.linkedin.com/in/aryan-gupta-5a599325a/"
   },
   {
-    "id": 17,
+    "id": 7,
     "name": "Harsh Kumar",
     "role": "Team Lead",
     "avatar": "./assets/picture/harsh2.jpg",
     "linkedin": "https://www.linkedin.com/in/harsh-kumar-653331214/"
   },
   {
-    "id": 18,
+    "id": 8,
     "name": "Swati Paliwal",
     "role": "Team Lead",
     "avatar": "./assets/picture/swati.jpg",
     "linkedin": "https://www.linkedin.com/in/swati-paliwal/"
   },
   {
-    "id": 7,
+    "id": 9,
     "name": "Harshit Goel",
     "role": "Management",
     "avatar": "./assets/picture/Harshit Goel.jpg",
@@ -64,44 +64,35 @@
   },
 
   {
-    "id": 8,
+    "id": 10,
     "name": "Sargam Tiwari",
     "role": "Designer",
     "avatar": "./assets/picture/sargam.jpg",
     "linkedin": "https://www.linkedin.com/in/sargam-tiwari-100101s/"
   },
-
   {
-    "id": 9,
-    "name": "Ankit Malik",
-    "role": "Coordinator",
-    "avatar": "./assets/picture/ankit.jpeg",
-    "linkedin": "https://www.linkedin.com/in/ankitmalik00/"
-  },
-
-  {
-    "id": 10,
+    "id": 11,
     "name": "Anjali Agarwal ",
     "role": "Coordinator",
     "avatar": "./assets/picture/anjali.jpg",
     "linkedin": "https://www.linkedin.com/in/anjali-agarwal-a41ba5227?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
   },
   {
-    "id": 11,
+    "id": 12,
     "name": "Sachin Kumar",
     "role": "Coordinator",
     "avatar": "./assets/picture/sachin.jpg",
     "linkedin": "https://www.linkedin.com/in/sachinkumar6203876120"
   },
   {
-    "id": 12,
+    "id": 13,
     "name": "Ishika jain",
     "role": "Coordinator",
     "avatar": "./assets/picture/ishika.jpg",
     "linkedin": "https://www.linkedin.com/in/ishika-jain-b0872a258"
   },
   {
-    "id": 13,
+    "id": 14,
     "name": "Shashank Lodhi",
     "role": "Coordinator",
     "avatar": "./assets/picture/Shashank Lodhi.jpg",
@@ -109,24 +100,31 @@
   },
 
   {
-    "id": 14,
+    "id": 15,
     "name": "Abhijeet chauhan",
     "role": "Coordinator",
     "avatar": "./assets/picture/abhijeet.jpg",
     "linkedin": "https://www.linkedin.com/in/thakur-abhijeet-singh-chauhan-4b5888297/?trk=contact-info"
   },
   {
-    "id": 15,
+    "id": 16,
     "name": "Priya Sirohi",
     "role": "Coordinator",
     "avatar": "./assets/picture/priya.jpeg",
     "linkedin": "https://www.linkedin.com/in/priya-sirohi-048079257?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
   },
   {
-    "id": 16,
+    "id": 17,
     "name": "Harshit Rana",
     "role": "Coordinator",
     "avatar": "./assets/picture/harshitRana.jpeg",
     "linkedin": "https://www.linkedin.com/in/priya-sirohi-048079257?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
+  },
+  {
+    "id": 18,
+    "name": "Akaash Tripathee",
+    "role": "Management",
+    "avatar": "./assets/picture/akash.jpeg",
+    "linkedin": "https://www.linkedin.com/in/akaash-t-bb9211212?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app"
   }
 ]

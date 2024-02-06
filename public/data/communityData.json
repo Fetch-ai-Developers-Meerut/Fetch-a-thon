@@ -53,23 +53,27 @@
   },
   {
     "id": 14,
-    "logo": "./assets/community/tit.jpeg"
+    "logo": "./assets/community/ces.jpeg"
   },
   {
     "id": 15,
-    "logo": "./assets/community/cwt.jpeg"
+    "logo": "./assets/community/tit.jpeg"
   },
   {
     "id": 16,
-    "logo": "./assets/community/iot.png"
+    "logo": "./assets/community/cwt.jpeg"
   },
   {
     "id": 17,
+    "logo": "./assets/community/iot.png"
+  },
+  {
+    "id": 18,
     "small": true,
     "logo": "./assets/community/dc.jpeg"
   },
   {
-    "id": 18,
+    "id": 19,
     "logo": "./assets/community/sos.jpeg"
   }
 ]
