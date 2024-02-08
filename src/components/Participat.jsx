@@ -61,8 +61,8 @@ const Participat = () => (
 
       <Button
         styles={`mt-10`}
-        text={`Register Now`}
-        link={`https://www.commudle.com/fill-form/2141`}
+        text={`Register Close`}
+        link={``}
       />
     </div>
 

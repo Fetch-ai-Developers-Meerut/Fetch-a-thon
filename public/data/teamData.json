@@ -48,13 +48,7 @@
     "avatar": "./assets/picture/harsh2.jpg",
     "linkedin": "https://www.linkedin.com/in/harsh-kumar-653331214/"
   },
-  {
-    "id": 18,
-    "name": "Swati Paliwal",
-    "role": "Team Lead",
-    "avatar": "./assets/picture/swati.jpg",
-    "linkedin": "https://www.linkedin.com/in/swati-paliwal/"
-  },
+
   {
     "id": 9,
     "name": "Harshit Goel",
@@ -71,13 +65,6 @@
     "linkedin": "https://www.linkedin.com/in/sargam-tiwari-100101s/"
   },
 
-  {
-    "id": 9,
-    "name": "Ankit Malik",
-    "role": "Coordinator",
-    "avatar": "./assets/picture/ankit.jpeg",
-    "linkedin": "https://www.linkedin.com/in/ankitmalik00/"
-  },
 
   {
     "id": 11,
