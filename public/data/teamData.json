@@ -49,7 +49,7 @@
     "linkedin": "https://www.linkedin.com/in/harsh-kumar-653331214/"
   },
   {
-    "id": 8,
+    "id": 18,
     "name": "Swati Paliwal",
     "role": "Team Lead",
     "avatar": "./assets/picture/swati.jpg",
@@ -70,6 +70,15 @@
     "avatar": "./assets/picture/sargam.jpg",
     "linkedin": "https://www.linkedin.com/in/sargam-tiwari-100101s/"
   },
+
+  {
+    "id": 9,
+    "name": "Ankit Malik",
+    "role": "Coordinator",
+    "avatar": "./assets/picture/ankit.jpeg",
+    "linkedin": "https://www.linkedin.com/in/ankitmalik00/"
+  },
+
   {
     "id": 11,
     "name": "Anjali Agarwal ",

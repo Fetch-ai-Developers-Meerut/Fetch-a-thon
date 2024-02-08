@@ -6,7 +6,7 @@ const Countdown = () => {
   const [timerHours, setTimerHours] = useState("00");
   const [timerMinutes, setTimerMinutes] = useState("00");
   const [timerSeconds, setTimerSeconds] = useState("00");
-  const registerEnd = new Date("07 February 2024 24:00:00").getTime();
+  const registerEnd = new Date("10 February 2024 24:00:00").getTime();
 
   useEffect(() => {
     const timer = setInterval(() => {
